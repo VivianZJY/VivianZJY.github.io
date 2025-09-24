@@ -18,11 +18,14 @@ Hi, there!👋
 
 Zhang Jiayuan is a postgraduate student majoring in Computational Communication at the School of Journalism and Communication, Nanjing University. She completed her undergraduate studies in Journalism at Wuhan University and has accumulated multiple internship experiences. Looking ahead, she aspires to further deepen her expertise and pursue in-depth development in the field of Computational Communication.
 
-
+Contact Information
+Affiliation: School of Journalism and Communication, Nanjing University (Computational Communication Track)
+Address: Nanjing University (Xianlin Campus), No. 163 Xianlin Avenue, Qixia District, Nanjing City, Jiangsu Province, P.R. China
+Email: vivianzhang0911@outlook.com
 
 <br>
 
-<a href="https://github.com/VvianZJY/VvianZJY.github.io/edit/master/_pages/about.md">
+<a href="https://github.com/VivianZJY/VivianZJY.github.io/edit/master/_pages/about.md">
   <img src="https://user-images.githubusercontent.com/543384/192227995-fdb3a693-2f68-4dc4-b9bd-06053066322f.png" width = "800" align="middle" />
 </a>
 
