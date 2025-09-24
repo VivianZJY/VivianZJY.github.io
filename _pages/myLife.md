@@ -8,9 +8,19 @@ nav_order: 3
 
 我喜欢探索新事物！以下是我的几个主要兴趣爱好：
 
-### 1. 编程和开源项目
+### 1. 运动和健身
 我热衷于使用 Python 和其他语言解决实际问题。我经常在 GitHub 上贡献代码，也喜欢维护自己的小项目。
 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+    </div>
 
 ### 2. 美食与烹饪
 我喜欢通过烹饪来表达创造力。无论是家常菜还是新奇的料理，我都享受从准备食材到做出美味佳肴的整个过程。
