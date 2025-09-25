@@ -23,9 +23,13 @@ nav_order: 3
 
 
 ### Internship Experience
-· Geely Group: Strategic Operations   
-· Xiaomi Auto: Project Management   
+· Geely Group: Strategic Operations
+Assisted in analyzing new energy vehicle market data, optimizing supply chain costs, and tracking strategic tasks. Contributed to a market analysis report and a cost-reduction project, ensuring smooth progress of strategic initiatives.   
+· Xiaomi Auto: Project Management  
+Supported the intelligent cockpit R&D project. Built schedules, coordinated cross-departmental work, and managed documents. Warned of delays, solved collaboration issues, and improved document retrieval efficiency.    
 · Lilith Games: Project Management   
+Aided a mobile game's development. Tracked task progress, coordinated team resources, and communicated with designers and developers. Ensured timely delivery of game features and facilitated efficient team collaboration.    
+
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/img/4-1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
@@ -37,48 +41,6 @@ nav_order: 3
         {% include figure.html path="assets/img/4-3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div> 
-
-
-
-### Daily Hobbies 
-Sports and Fitness🏃‍♀️
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/2-2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/2-1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/2-3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>   
-
-Delicious Cuisine🍜
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1-3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1-2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1-1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>     
-
-Music and Travel🎶
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3-2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3-3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3-1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>    
 
 
 
