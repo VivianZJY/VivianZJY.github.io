@@ -23,7 +23,7 @@ nav_order: 3
 
 
 ### Internship Experience
-· Geely Group: Strategic Operations
+· Geely Group: Strategic Operations    
 Assisted in analyzing new energy vehicle market data, optimizing supply chain costs, and tracking strategic tasks. Contributed to a market analysis report and a cost-reduction project, ensuring smooth progress of strategic initiatives.   
 · Xiaomi Auto: Project Management  
 Supported the intelligent cockpit R&D project. Built schedules, coordinated cross-departmental work, and managed documents. Warned of delays, solved collaboration issues, and improved document retrieval efficiency.    
