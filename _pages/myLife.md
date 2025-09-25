@@ -16,7 +16,7 @@ nav_order: 3
         {% include figure.html path="assets/img/5-1.png" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm mt-6 mt-md-0">
-        {% include figure.html path="assets/img/5-2.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.html path="assets/img/5-3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div> 
 
